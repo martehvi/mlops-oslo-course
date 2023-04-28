@@ -1,2 +1,2 @@
 # mlops-oslo-course
-Test environment for MLOps workshop
+asdasdTest environment for MLOps workshop
